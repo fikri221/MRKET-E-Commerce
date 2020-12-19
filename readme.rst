@@ -1,3 +1,11 @@
+***************
+Fitur Website
+***************
+- Halaman Utama
+- Halaman Detail produk
+- Halaman Checkout
+- Halaman Pembayaran
+
 ###################
 What is CodeIgniter
 ###################
